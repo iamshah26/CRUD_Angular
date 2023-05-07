@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Employees": [
+    {
+      "firstname": "askariii",
+      "lastname": "Haider",
+      "email": "haiderabedi26@gmail.com",
+      "dob": "2023-05-15T19:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "",
+      "experience": 5,
+      "package": 6,
+      "id": 3
+    },
+    {
+      "firstname": "Ali",
+      "lastname": "Haider",
+      "email": "haiderabedi26@gmail.com",
+      "dob": "2023-05-08T19:00:00.000Z",
+      "gender": "Male",
+      "education": "Post Graduate",
+      "company": "Ibex",
+      "experience": 1,
+      "package": 33,
+      "id": 4
+    },
+    {
+      "firstname": "Omer ",
+      "lastname": "Siddique ",
+      "email": "omer@gmail.com",
+      "dob": "2023-05-04T19:00:00.000Z",
+      "gender": "",
+      "education": "Graduate",
+      "company": "",
+      "experience": 3,
+      "package": 5,
+      "id": 5
+    }
+  ]
+}
